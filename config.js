@@ -18,11 +18,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283167714830','6281382420312','6288292024190']
-global.premium = ['6288292024190']
-global.packname = 'Hisoka Morrow'
-global.author = 'WhatsApp Bot'
-global.sessionName = 'hisoka'
+global.owner = ['6288242147113','6282196995322','6289677352940']
+global.premium = ['6288242147113']
+global.packname = 'Made By SquiqWard'
+global.author = 'SquidWard Bot'
+global.sessionName = 'geral'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -38,7 +38,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 20
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')
 global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
